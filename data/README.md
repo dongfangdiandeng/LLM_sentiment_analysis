@@ -106,8 +106,8 @@ These files contain **non-sensitive, aggregated, LLM-processed results**, and ar
 ```text
 data/
 │
-├── raw/ # ❌ Not included in GitHub (sensitive)
-├── processed/ # ✔ Final public datasets (9 CSV files)
+├── raw/ # Not included in GitHub 
+├── processed/ # Final public datasets 
 │ ├── *_final_ai_clustered_deepseek.csv
 │ ├── *_final_ai_clustered_gpt.csv
 │ └── *_final_ai_clustered_xai.csv
