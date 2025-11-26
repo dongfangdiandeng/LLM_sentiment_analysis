@@ -103,7 +103,7 @@ These files contain **non-sensitive, aggregated, LLM-processed results**, and ar
 ---
 
 ## 5. Folder Structure Summary
-
+```text
 data/
 │
 ├── raw/ # ❌ Not included in GitHub (sensitive)
